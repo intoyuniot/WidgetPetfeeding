@@ -1,0 +1,17 @@
+{
+    "name": "WidgetPetfeeding",
+    "version": "1.0.0",
+    "keywords": "Widget,Pet",
+    "description": "宠物喂食器应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetPetfeeding.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

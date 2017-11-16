@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetPetfeeding   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getFeedSwitch  KEYWORD2
+displayFeedStatus  KEYWORD2
+control  KEYWORD2
+displayPetStatus  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
